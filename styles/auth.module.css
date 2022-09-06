@@ -144,3 +144,12 @@
 .formError::first-letter {
     text-transform: uppercase;
 }
+
+.formSuccess {
+    margin-top: 10px;
+    color: rgb(73, 255, 106);
+}
+
+.formSuccess::first-letter {
+    text-transform: uppercase;
+}
